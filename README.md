@@ -1,5 +1,5 @@
 # LoginPageTailwindCss
-Estou começando a usar o TailwindCss em meus projetos faz pouco tempo, tenho gostado bastante dos resultado que ele pode oferecer.
+Estou começando a usar o TailwindCss em meus projetos faz pouco tempo, tenho gostado bastante dos resultados que ele pode oferecer.
 Sem dúvidas usarei ele em todos os meus projetos a partir de agora.
 
 Fiz uma página de login para ver o funcionamento das estilizações, o resultado ficou legal.
